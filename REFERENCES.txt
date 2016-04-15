@@ -1,0 +1,8 @@
+1) http://www.linuxhowtos.org/C_C++/socket.htm
+
+2) http://www.cplusplus.com/reference/cstdlib/srand/
+For the understanding of pseudo-random generator
+
+3) Linux man pages
+For better understanding of socket and system calls
+
